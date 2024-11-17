@@ -12,6 +12,6 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 1. Project planning and scoping:The Project Planning and Scoping phase ensured that the Power BI dashboard for AtliQ Hardwares was delivered within scope, on time, and with the right set of features to meet 
    business needs. By defining clear objectives, understanding stakeholder requirements, and setting boundaries, the project was structured to deliver meaningful insights across multiple business functions,enabling 
    data-driven decisions.This involved
-    - Defining Project Objectives and Goals: Improve the efficiency of reporting and reduce the time spent on manual data manipulation.
-                                            - Deliver a user-friendly dashboard that integrates various data sources (sales, inventory, finance, etc.) for a holistic view of the business.
+    - Defining Project Objectives and Goals: -  Improve the efficiency of reporting and reduce the time spent on manual data manipulation.
+                                             -  Deliver a user-friendly dashboard that integrates various data sources (sales, inventory, finance, etc.) for a holistic view of the business.
    
