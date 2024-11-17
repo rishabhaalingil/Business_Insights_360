@@ -15,8 +15,8 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
     - Defining Project Objectives and Goals:
          - Improve the efficiency of reporting and reduce the time spent on manual data manipulation.
          - Deliver a user-friendly dashboard that integrates various data sources (sales, inventory, finance, etc.) for a holistic view of the business.
-    - Stakeholder Identification and Involvement:Scoping the project also means identifying all key stakeholders (e.g., department heads, end users, decision-makers) who will be involved in the project or who will 
-                                                 benefit from it. Stakeholders may include people from Sales, Marketing, Finance, and Supply Chain teams in the case of your Power BI dashboard project.
+    - Stakeholder Identification and Involvement:Scoping the project also means identifying all key stakeholders (e.g., department heads, end users, decision-makers) who will be involved in the project or who 
+                                                 will benefit from it. Stakeholders may include people from Sales, Marketing, Finance, and Supply Chain teams in the case of your Power BI dashboard project.
                                                   The steps involoved are:
                                                       - Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
                                                       - Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
