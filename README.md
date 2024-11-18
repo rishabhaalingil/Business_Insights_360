@@ -19,9 +19,9 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
     - Stakeholder Identification and Involvement:Scoping the project also means identifying all key stakeholders (e.g., department heads, end users, decision-makers) who will be involved in the project or who 
                                                  will benefit from it. Stakeholders may include people from Sales, Marketing, Finance, and Supply Chain teams in the case of your Power BI dashboard project.
                                                  The steps involved are:
-                                                          - Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
-                                                          - Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
-                                                            development process.
+                                                     1. Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
+                                                     2. Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
+                                                        development process.
       
     - Scope Definition:The scope of the project is defined by clearly outlining the specific deliverables, features, and functionality of the project. This includes deciding what will be included—and, just as 
                        importantly, what will not be included—in the final deliverable.
@@ -38,7 +38,6 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 
     - Communication Plan:
         - A solid communication plan is necessary to keep all team members and stakeholders updated. This includes:
-          
                 -  Regular progress updates: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
                 -  Documentation of key decisions: Document any significant changes, feedback, or decisions made throughout the project.
       
