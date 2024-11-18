@@ -33,13 +33,13 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 
    - **Deliverables and Mitigation**:
      The final deliverables should be clearly defined in the planning stage. These include:
-     1. A fully functional Power BI dashboard that provides real-time insights across key departments.
-     2. User guides or training materials to help stakeholders navigate and utilize the dashboard.
-     3. Documentation for future updates or maintenance.
+     - A fully functional Power BI dashboard that provides real-time insights across key departments.
+     - User guides or training materials to help stakeholders navigate and utilize the dashboard.
+     - Documentation for future updates or maintenance.
 
    - **Communication Plan**:
      A solid communication plan is necessary to keep all team members and stakeholders updated. This includes:
-     1. **Regular progress updates**: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
-     2. **Documentation of key decisions**: Document any significant changes, feedback, or decisions made throughout the project.
+     - **Regular progress updates**: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
+     - **Documentation of key decisions**: Document any significant changes, feedback, or decisions made throughout the project.
 
       
