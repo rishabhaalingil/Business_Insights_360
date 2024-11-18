@@ -16,7 +16,8 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
          - Improve the efficiency of reporting and reduce the time spent on manual data manipulation.
          - Deliver a user-friendly dashboard that integrates various data sources (sales, inventory, finance, etc.) for a holistic view of the business.
            
-    - Stakeholder Identification and Involvement:The steps involved are :
+    - Stakeholder Identification and Involvement:
+                                 - The steps involved are :
                                                       - Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
                                                       - Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
                                                          development process.
