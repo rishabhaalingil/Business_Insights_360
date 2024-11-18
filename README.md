@@ -16,11 +16,9 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
          - Improve the efficiency of reporting and reduce the time spent on manual data manipulation.
          - Deliver a user-friendly dashboard that integrates various data sources (sales, inventory, finance, etc.) for a holistic view of the business.
            
-    - Stakeholder Identification and Involvement:Scoping the project also means identifying all key stakeholders (e.g., department heads, end users, decision-makers) who will be involved in the project or who 
-                                                 will benefit from it. Stakeholders may include people from Sales, Marketing, Finance, and Supply Chain teams in the case of your Power BI dashboard project.
-                                                 The steps involved are :
-                                                      1. Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
-                                                      2. Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
+    - Stakeholder Identification and Involvement:The steps involved are :
+                                                      - Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
+                                                      - Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
                                                          development process.
       
     - Scope Definition:The scope of the project is defined by clearly outlining the specific deliverables, features, and functionality of the project. This includes deciding what will be included—and, just as 
