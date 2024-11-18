@@ -21,5 +21,7 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
                                                           - Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
                                                           - Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
                                                             development process.
+    - Scope Definition:The scope of the project is defined by clearly outlining the specific deliverables, features, and functionality of the project. This includes deciding what will be included—and, just as 
+                       importantly, what will not be included—in the final deliverable.
     - 
    
