@@ -32,7 +32,7 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
     - Risk Identification and Mitigation:Risk planning involves identifying potential challenges or risks that could hinder project progress.For each risk, mitigation strategies should be outlined.
   
     - Deliverables and Mitigation:The final deliverables should be clearly defined in the planning stage.These include:
-                                 - A fully functional Power BI dashboard that provides real-time insights across key departments.
-                                 - User guides or training materials to help stakeholders navigate and utilize the dashboard.
-                                 - Documentation for future updates or maintenance.
+                                    - A fully functional Power BI dashboard that provides real-time insights across key departments.
+                                    - User guides or training materials to help stakeholders navigate and utilize the dashboard.
+                                    - Documentation for future updates or maintenance.
    
