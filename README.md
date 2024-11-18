@@ -18,7 +18,7 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
            
     - Stakeholder Identification and Involvement:Scoping the project also means identifying all key stakeholders (e.g., department heads, end users, decision-makers) who will be involved in the project or who 
                                                  will benefit from it. Stakeholders may include people from Sales, Marketing, Finance, and Supply Chain teams in the case of your Power BI dashboard project.
-                                                 The steps involved are:
+                                                 The steps involved are :
                                                       1. Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
                                                       2. Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the 
                                                          development process.
@@ -31,12 +31,12 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
       
     - Risk Identification and Mitigation:Risk planning involves identifying potential challenges or risks that could hinder project progress.For each risk, mitigation strategies should be outlined.
   
-    - Deliverables and Mitigation:The final deliverables should be clearly defined in the planning stage.These include:
+    - Deliverables and Mitigation:The final deliverables should be clearly defined in the planning stage.These include :
                                      1.  A fully functional Power BI dashboard that provides real-time insights across key departments.
                                      2.  User guides or training materials to help stakeholders navigate and utilize the dashboard.
                                      3.  Documentation for future updates or maintenance.
 
-    - Communication Plan:A solid communication plan is necessary to keep all team members and stakeholders updated. This includes:
+    - Communication Plan:A solid communication plan is necessary to keep all team members and stakeholders updated.This includes :
                              1. Regular progress updates: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
                              2. Documentation of key decisions: Document any significant changes, feedback, or decisions made throughout the project.
       
