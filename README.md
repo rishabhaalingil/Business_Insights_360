@@ -42,4 +42,49 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
      - **Regular progress updates**: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
      - **Documentation of key decisions**: Document any significant changes, feedback, or decisions made throughout the project.
 
-      
+ 2. **Data Collection,Exploration and validation**:
+       - Imported the data to MySql.
+       - Data Exploration using MySql.
+       - Validated data against benchmark numbers.Data validation in Power BI against the benchmark numbers provided by the product owner.
+         Address gaps found during data validation
+       - Created a date dimension table.
+         
+3. **Data Transformation in Power Query**:
+       - Reviewed Finance Mockups
+       - Transform data in power query:Used power query M formula language and some other features (such as merge tables) to generate a single table containing both actuals and estimates.
+       - Created calculated columns in power query editor
+   
+4. **Data Modelling and Calculated Columns**:
+       - Using DAX for creating calculated columns.
+       - Connected facts and dimension tables in a snowflake schema.
+   
+5. **Dashboard Development**:
+   1. **Built finance view**:
+                - Contains Profit and Loss Statement,Net sales performance over time which is a line chart,Top/Bottom product and customers by Net Sales in a matrix format.
+                - Contains the KPI's : Net Sales,Gross Margin percentage,Net profit percentage.
+                - Contains a toggle button to switch between the current year target and the last year data.
+
+   2.**Built sales view**:
+                  - Contains customer performance table and product performance table which contains the customer and product at rows and Net Sales, Gross Margin and Gross margin percentage
+                    in columns.
+                  - Contains a performance matrix which is a scatter chart and contains the regional sales data against the Gross margin percentage and net sales.
+                  - Unit Economics which is donut chart showing the percentage distribution of net sales,total post invoice deductions,pre invoice deductions and another one showing the percentages of total cost of goods sold and gross margin.
+                  - Contains a toggle button to switch between the current year target and the last year data.
+   
+   3.**Built marketing view**:
+                  - Contains product performance table which contains the customer and product at rows and Net Sales, Gross Margin and Gross margin percentage,Net profit,Net profit percentage in columns.
+                  - Contains region/market performance table which contains the regional data against the metrics such as Net Sales,Gross Margin,Gross Margin percentage,Net profit,Net profit percentage.
+                  - Performance matrix which is a scatter chart of product division against the net sales and net profit percentage metric.There is also a toggle button to switch between the net profit percentage and Gross Margin percentage.
+                  - Donut chart showing the percentage of total goods sold and gross margin.The donut chart provides a clear visual representation of the relationship between the Total Cost of Goods Sold (COGS) and the Gross Margin Percentage for AtliQ Hardwares. This chart helps stakeholders understand the distribution of revenue between production costs and profit margin.
+                  - Waterfall chart which shows the gross margin,operational costs and net profit.This chart helps us to understand the relationship between gross margin and net profit.
+
+    4.**Built Supply Chain View**:
+                  - Contains some key KPI's such as Forecast Accuracy percentage(FCA %),Net Error,Net Profit percentage.
+                  - Contains a table which shows the FCA, FCA % of Last Year(LY), Net Error, Net Error Percentage,and Risk associated with different customers.This table equips the Supply Chain Team with key performance metrics that enable them to track and improve the accuracy of demand forecasting. By continuously refining forecasting processes, the team can achieve better inventory control, more efficient procurement, and ultimately reduce operational risks and costs, leading to a more streamlined and responsive supply chain.
+                  - Accuracy/Net Error trend graph which shows the net error and the comparison between the FCA of this year and the previous year.By continuously monitoring this graph, the team can evaluate whether their predictions are becoming more accurate over time, identify patterns of error, and adjust their strategies to enhance forecasting accuracy, optimize inventory management, and ultimately improve the overall efficiency of the supply chain.
+                 - There is also a product metrics table which gives the FCA,FCA %,Net Error,Net Error percentage and Risk associated with each of the product division.
+
+   5.**Built Executive View**:
+   
+                        
+ 
