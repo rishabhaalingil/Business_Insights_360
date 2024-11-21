@@ -59,25 +59,25 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
        - Connected facts and dimension tables in a snowflake schema.
    
 5. **Dashboard Development**:
-1. **Built Finance View**:
+   1. **Built Finance View**:
     - Contains **Profit and Loss Statement**, **Net sales performance over time** (line chart), and **Top/Bottom product and customers by Net Sales** (matrix format).
     - Contains the KPIs: **Net Sales**, **Gross Margin percentage**, and **Net Profit percentage**.
     - Includes a **toggle button** to switch between the current year target and the last year data.
 
-2. **Built Sales View**:
+   2. **Built Sales View**:
     - Contains **customer performance table** and **product performance table** with rows for customer and product, and columns for **Net Sales**, **Gross Margin**, and **Gross Margin Percentage**.
     - Includes a **performance matrix** (scatter chart) with **regional sales data** against **Gross Margin Percentage** and **Net Sales**.
     - **Unit Economics** donut chart showing the percentage distribution of **Net Sales**, **Total Post Invoice Deductions**, **Pre Invoice Deductions**, and another one showing the percentages of **Total Cost of Goods Sold** and **Gross Margin**.
     - Contains a **toggle button** to switch between the current year target and the last year data.
 
-3. **Built Marketing View**:
+   3. **Built Marketing View**:
     - Contains **product performance table** with rows for customer and product, and columns for **Net Sales**, **Gross Margin**, **Gross Margin Percentage**, **Net Profit**, and **Net Profit Percentage**.
     - Contains **region/market performance table** with regional data against the metrics such as **Net Sales**, **Gross Margin**, **Gross Margin Percentage**, **Net Profit**, and **Net Profit Percentage**.
     - Includes a **performance matrix** (scatter chart) of **product division** against **Net Sales** and **Net Profit Percentage**. Also includes a **toggle button** to switch between **Net Profit Percentage** and **Gross Margin Percentage**.
     - **Donut chart** showing the percentage of **Total Goods Sold** and **Gross Margin**. The donut chart provides a visual representation of the relationship between **COGS** and **Gross Margin Percentage** for AtliQ Hardwares.
     - **Waterfall chart** showing **Gross Margin**, **Operational Costs**, and **Net Profit**. This chart helps visualize the relationship between **Gross Margin** and **Net Profit**.
 
-4. **Built Supply Chain View**:
+   4. **Built Supply Chain View**:
     - Contains key **KPIs**: **Forecast Accuracy Percentage (FCA%)**, **Net Error**, and **Net Profit Percentage**.
     - Includes a table showing **FCA**, **FCA % of Last Year (LY)**, **Net Error**, **Net Error Percentage**, and **Risk associated with different customers**. This equips the Supply Chain team with performance metrics to track and improve the accuracy of demand forecasting.
     - **Accuracy/Net Error trend graph** showing the **Net Error** and the comparison between **FCA** of this year and last year. This helps evaluate forecasting accuracy and improve strategies over time.
