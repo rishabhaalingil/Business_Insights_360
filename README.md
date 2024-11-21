@@ -50,13 +50,14 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
        - Created a date dimension table.
          
 3. **Data Transformation in Power Query**:
-       - Reviewed Finance Mockups
-       - Transform data in power query:Used power query M formula language and some other features (such as merge tables) to generate a single table containing both actuals and estimates.
-       - Created calculated columns in power query editor
-   
+   - **Reviewed Finance Mockups**: Analyzed the provided finance mockups to understand the required structure and data needed for reporting.
+   - **Transform Data in Power Query**: Utilized Power Query M formula language and other features (such as merging tables) to generate a unified table that combines both actual and estimated data.
+   - **Created Calculated Columns in Power Query Editor**: Created new calculated columns within Power Query to manipulate and shape the data as per reporting requirements.
+
 4. **Data Modelling and Calculated Columns**:
-       - Using DAX for creating calculated columns.
-       - Connected facts and dimension tables in a snowflake schema.
+   - **Using DAX for Creating Calculated Columns**: Applied Data Analysis Expressions (DAX) to create calculated columns for advanced analysis and reporting.
+   - **Connected Facts and Dimension Tables in a Snowflake Schema**: Structured the data model by linking fact and dimension tables in a snowflake schema to optimize data relationships and enable efficient querying and reporting.
+
    
 5. **Dashboard Development**:
 
