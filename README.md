@@ -12,32 +12,32 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 1. **Project Planning and Scoping**:
    The Project Planning and Scoping phase ensured that the Power BI dashboard for AtliQ Hardwares was delivered within scope, on time, and with the right set of features to meet business needs. By defining clear objectives, understanding stakeholder requirements, and setting boundaries, the project was structured to deliver meaningful insights across multiple business functions, enabling data-driven decisions. This involved:
 
-   - **Defining Project Objectives and Goals**:
+   1. **Defining Project Objectives and Goals**:
      - Improve the efficiency of reporting and reduce the time spent on manual data manipulation.
      - Deliver a user-friendly dashboard that integrates various data sources (sales, inventory, finance, etc.) for a holistic view of the business.
 
-   - **Stakeholder Identification and Involvement**:
+   2. **Stakeholder Identification and Involvement**:
      Scoping the project also means identifying all key stakeholders (e.g., department heads, end users, decision-makers) who will be involved in the project or who will benefit from it. Stakeholders may include people from **Sales**, **Marketing**, **Finance**, and **Supply Chain** teams in the case of this Power BI dashboard project. The steps involved are:
      
      - Clarify stakeholder expectations: Understanding what each stakeholder group needs from the dashboard, which features and KPIs are most important to them.
      - Regular communication and feedback: Plan for ongoing discussions and feedback loops to ensure the project is aligned with user needs throughout the development process.
 
-   - **Scope Definition**:
+   3. **Scope Definition**:
      The scope of the project is defined by clearly outlining the specific deliverables, features, and functionality of the project. This includes deciding what will be included—and, just as importantly, what will not be included—in the final deliverable.
 
-   - **Estimating Time, Resources, and Budget**:
+   4. **Estimating Time, Resources, and Budget**:
      A detailed project timeline should be created, with clearly defined milestones and deadlines. This includes estimating the time and resources required for each stage of the project.
 
-   - **Risk Identification and Mitigation**:
+   5. **Risk Identification and Mitigation**:
      Risk planning involves identifying potential challenges or risks that could hinder project progress. For each risk, mitigation strategies should be outlined.
 
-   - **Deliverables and Mitigation**:
+   6. **Deliverables and Mitigation**:
      The final deliverables should be clearly defined in the planning stage. These include:
      - A fully functional Power BI dashboard that provides real-time insights across key departments.
      - User guides or training materials to help stakeholders navigate and utilize the dashboard.
      - Documentation for future updates or maintenance.
 
-   - **Communication Plan**:
+   7. **Communication Plan**:
      A solid communication plan is necessary to keep all team members and stakeholders updated. This includes:
      - **Regular progress updates**: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
      - **Documentation of key decisions**: Document any significant changes, feedback, or decisions made throughout the project.
@@ -109,6 +109,18 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 - As part of the quality assurance process, a round of User Acceptance Testing (UAT) was carried out with a select group of end-users. This stage of testing allowed real users to interact with the report and provide feedback on its functionality, usability, and accuracy. The goal was to identify and resolve any obvious issues, such as data errors, interface problems, or user experience concerns, before the solution is rolled out to a larger audience. The feedback collected during this phase was used to make necessary adjustments and ensure that the final solution meets user expectations and delivers the required value.
 
 
+7. **Stakeholder Review and Feedback Implementation**:
+    1. **The reports were reviewed by the stakeholders and their suggestions were provided.Steps were taken to implement these suggestions**.
+- After the initial report was shared with stakeholders, a thorough review process was conducted to gather their feedback. This included gathering input on report content, layout, accuracy, and overall usefulness.
+- Based on their input, a set of actionable steps was taken to refine and enhance the report. These adjustments not only addressed specific stakeholder concerns but also ensured that the report better aligned with the business objectives. By actively involving stakeholders in the process and incorporating their feedback, we ensured that the final report is more tailored to their needs, which leads to more effective decision-making.
+   
+   2. **Stakeholder mapping was done to understand the stakeholder expectation and personalities**.
+- To ensure that the report met the diverse needs of all involved parties, a stakeholder mapping exercise was conducted. This involved identifying and categorizing key stakeholders based on their roles, influence, and expectations of the report. By understanding the priorities of each stakeholder group—whether they were more focused on high-level metrics, in-depth analysis, or actionable insights—we were able to tailor the content to suit their needs.
+- Additionally, understanding the personalities and preferences of different stakeholders allowed for more effective communication.
+  
+  3. **Focussed on fixing the data quality issues and improve the performance optimization**.
+- A significant emphasis was placed on ensuring that the report’s data was accurate, reliable, and of the highest quality. The data quality review involved identifying and addressing any inconsistencies, missing values, or errors in the dataset that could lead to inaccurate insights.
+- In addition to data quality, the performance optimization of the report was prioritized. This involved analyzing the report's responsiveness and load times, particularly when handling large datasets or complex visualizations. Steps were taken to streamline calculations, optimize queries, and reduce unnecessary processing time, resulting in faster report generation and smoother user experience.
 
                         
  
