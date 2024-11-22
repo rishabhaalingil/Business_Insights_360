@@ -96,16 +96,16 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 6. **Data Validation**:
 
 
-   1. **Published the Report to Power BI Service**:
+   1. **Published the Report to Power BI Service** :
 The report, once finalized and tested locally, was uploaded to the Power BI Service platform. This allows for easy sharing and distribution of the report among stakeholders, including team members, managers, and other relevant personnel. The report was published to a workspace within Power BI Service, ensuring that authorized users can access it online. By doing so, we enabled real-time access to the most up-to-date data and provided the opportunity for interactive exploration of the data through Power BI’s rich visualizations.
 
-   2. **Exported the Report to Excel Using the "Analyze in Excel" Option and Analyzed Results in PivotTables**:
+   2. **Exported the Report to Excel Using the "Analyze in Excel" Option and Analyzed Results in PivotTables** :
 Using Power BI’s “Analyze in Excel” feature, I exported the report data into an Excel file. This feature allowed for a seamless integration between Power BI and Excel, enabling users to manipulate and analyze the data outside of Power BI while retaining the report's data structure and relationships. Once in Excel, the data was analyzed using PivotTables to derive insights and trends, allowing for more detailed and customizable analysis. PivotTables provided the flexibility to perform data aggregation, comparison, and visualization based on different filters and dimensions.
 
-   3. **Data Validation Was Carried Out with the Benchmark Numbers from the Previous Years and Also the Target Values of the Current Year**:
+   3. **Data Validation Was Carried Out with the Benchmark Numbers from the Previous Years and Also the Target Values of the Current Year** :
 To ensure the accuracy and integrity of the data, a thorough data validation process was conducted. This involved comparing the current report’s data against benchmark numbers from previous years, which served as a point of reference for consistency and historical performance. In addition, the current year's target values were also used for validation to ensure that the results align with the expected goals and objectives. Any discrepancies between the actual data and benchmark/target figures were flagged for further review and corrective actions, ensuring the report’s data is reliable and actionable.
 
-   4. **User Acceptance Testing (UAT) Is Done for the First Round of Testing by End-Users So That Obvious Issues Can Be Identified Before the Solution Is Released to a Broad Range of Users**:
+   4. **User Acceptance Testing (UAT) Is Done for the First Round of Testing by End-Users So That Obvious Issues Can Be Identified Before the Solution Is Released to a Broad Range of Users** :
 As part of the quality assurance process, a round of User Acceptance Testing (UAT) was carried out with a select group of end-users. This stage of testing allowed real users to interact with the report and provide feedback on its functionality, usability, and accuracy. The goal was to identify and resolve any obvious issues, such as data errors, interface problems, or user experience concerns, before the solution is rolled out to a larger audience. The feedback collected during this phase was used to make necessary adjustments and ensure that the final solution meets user expectations and delivers the required value.
 
 
