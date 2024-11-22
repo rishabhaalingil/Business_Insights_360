@@ -96,7 +96,7 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 6. **Data Validation**:
 
 
- 1. **Published the Report to Power BI Service**
+  1. **Published the Report to Power BI Service**
 - The report, once finalized and tested locally, was uploaded to the Power BI Service platform. This allows for easy sharing and distribution of the report among stakeholders, including team members, managers, and other relevant personnel. The report was published to a workspace within Power BI Service, ensuring that authorized users can access it online. By doing so, we enabled real-time access to the most up-to-date data and provided the opportunity for interactive exploration of the data through Power BI’s rich visualizations.
 
  2. **Exported the Report to Excel Using the "Analyze in Excel" Option and Analyzed Results in PivotTables**
