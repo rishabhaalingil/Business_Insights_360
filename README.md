@@ -119,8 +119,8 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
       - Additionally, understanding the personalities and preferences of different stakeholders allowed for more effective communication.
   
    3. **Focussed on fixing the data quality issues and improve the performance optimization**.
-     - A significant emphasis was placed on ensuring that the report’s data was accurate, reliable, and of the highest quality. The data quality review involved identifying and addressing any inconsistencies, missing values, or errors in the dataset that could lead to inaccurate insights.
-     - In addition to data quality, the performance optimization of the report was prioritized. This involved analyzing the report's responsiveness and load times, particularly when handling large datasets or complex visualizations. Steps were taken to streamline calculations, optimize queries, and reduce unnecessary processing time, resulting in faster report generation and smoother user experience.
+      - A significant emphasis was placed on ensuring that the report’s data was accurate, reliable, and of the highest quality. The data quality review involved identifying and addressing any inconsistencies, missing values, or errors in the dataset that could lead to inaccurate insights.
+      - In addition to data quality, the performance optimization of the report was prioritized. This involved analyzing the report's responsiveness and load times, particularly when handling large datasets or complex visualizations. Steps were taken to streamline calculations, optimize queries, and reduce unnecessary processing time, resulting in faster report generation and smoother user experience.
 
                         
  
