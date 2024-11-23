@@ -39,24 +39,24 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 
    7. **Communication Plan**:
      A solid communication plan is necessary to keep all team members and stakeholders updated. This includes:
-      - **Regular progress updates**: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
-      - **Documentation of key decisions**: Document any significant changes, feedback, or decisions made throughout the project.
+       - **Regular progress updates**: Schedule recurring meetings to discuss the project’s progress, address any challenges, and align with stakeholders on evolving requirements.
+       - **Documentation of key decisions**: Document any significant changes, feedback, or decisions made throughout the project.
 
  2. **Data Collection,Exploration and validation**:
-       - Imported the data to MySql.
-       - Data Exploration using MySql.
-       - Validated data against benchmark numbers.Data validation in Power BI against the benchmark numbers provided by the product owner.
+        - Imported the data to MySql.
+        - Data Exploration using MySql.
+        - Validated data against benchmark numbers.Data validation in Power BI against the benchmark numbers provided by the product owner.
          Address gaps found during data validation
-       - Created a date dimension table.
+        - Created a date dimension table.
          
 3. **Data Transformation in Power Query**:
-   - **Reviewed Finance Mockups**: Analyzed the provided finance mockups to understand the required structure and data needed for reporting.
-   - **Transform Data in Power Query**: Utilized Power Query M formula language and other features (such as merging tables) to generate a unified table that combines both actual and estimated data.
-   - **Created Calculated Columns in Power Query Editor**: Created new calculated columns within Power Query to manipulate and shape the data as per reporting requirements.
+    - **Reviewed Finance Mockups**: Analyzed the provided finance mockups to understand the required structure and data needed for reporting.
+    - **Transform Data in Power Query**: Utilized Power Query M formula language and other features (such as merging tables) to generate a unified table that combines both actual and estimated data.
+    - **Created Calculated Columns in Power Query Editor**: Created new calculated columns within Power Query to manipulate and shape the data as per reporting requirements.
 
 4. **Data Modelling and Calculated Columns**:
-   - **Using DAX for Creating Calculated Columns**: Applied Data Analysis Expressions (DAX) to create calculated columns for advanced analysis and reporting.
-   - **Connected Facts and Dimension Tables in a Snowflake Schema**: Structured the data model by linking fact and dimension tables in a snowflake schema to optimize data relationships and enable efficient querying and reporting.
+    - **Using DAX for Creating Calculated Columns**: Applied Data Analysis Expressions (DAX) to create calculated columns for advanced analysis and reporting.
+    - **Connected Facts and Dimension Tables in a Snowflake Schema**: Structured the data model by linking fact and dimension tables in a snowflake schema to optimize data relationships and enable efficient querying and reporting.
 
    
 5. **Dashboard Development**:
@@ -96,16 +96,16 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
  6. **Deploying the Solution**
 
     1. **Published the Report to Power BI Service**
-- The report, once finalized and tested locally, was uploaded to the **Power BI Service** platform. This allows for easy sharing and distribution of the report among stakeholders, including team members, managers, and other relevant personnel. The report was published to a **workspace** within Power BI Service, ensuring that authorized users can access it online.
-- By doing so, we enabled **real-time access** to the most up-to-date data and provided the opportunity for **interactive exploration** of the data through Power BI’s rich visualizations.
+        - The report, once finalized and tested locally, was uploaded to the **Power BI Service** platform. This allows for easy sharing and distribution of the report among stakeholders, including team members, managers, and other relevant personnel. The report was published to a **workspace** within Power BI Service, ensuring that authorized users can access it online.
+        - By doing so, we enabled **real-time access** to the most up-to-date data and provided the opportunity for **interactive exploration** of the data through Power BI’s rich visualizations.
 
     2. **Installed a Personal Gateway and Connected Local Computer with Power BI Service for Automatic Data Refresh of MySQL Database**
-- To ensure the data in the Power BI reports remained up-to-date, I installed a **personal gateway** on the local computer. The gateway acts as a bridge between on-premises data sources (in this case, the **MySQL database**) and the Power BI Service in the cloud.
-- This setup allows Power BI to **automatically refresh the data** on a scheduled basis, without needing manual intervention. This ensures the reports always reflect the most current data, making the reporting process more efficient and up-to-date.
+        - To ensure the data in the Power BI reports remained up-to-date, I installed a **personal gateway** on the local computer. The gateway acts as a bridge between on-premises data sources (in this case, the **MySQL database**) and the Power BI Service in the cloud.
+        - This setup allows Power BI to **automatically refresh the data** on a scheduled basis, without needing manual intervention. This ensures the reports always reflect the most current data, making the reporting process more efficient and up-to-date.
 
     3. **The Excel Files Were Uploaded to the SharePoint Folder via Teams for the Automatic Data Refresh of the Excel Files Data**
-- By uploading the **Excel files** to **SharePoint**, I enabled **automatic data refresh** for the reports that pull data from these files. Power BI is able to connect to **SharePoint Online** and automatically refresh the data whenever the Excel files are updated, ensuring the reports always reflect the latest changes without needing to manually upload or modify the data.
-- The integration between **Teams**, **SharePoint**, and **Power BI** creates a streamlined workflow, where stakeholders can update the data in the Excel files within the Teams environment, and Power BI automatically pulls the latest version for report generation.
+        - By uploading the **Excel files** to **SharePoint**, I enabled **automatic data refresh** for the reports that pull data from these files. Power BI is able to connect to **SharePoint Online** and automatically refresh the data whenever the Excel files are updated, ensuring the reports always reflect the latest changes without needing to manually upload or modify the data.
+        - The integration between **Teams**, **SharePoint**, and **Power BI** creates a streamlined workflow, where stakeholders can update the data in the Excel files within the Teams environment, and Power BI automatically pulls the latest version for report generation.
 
 7. **Data Validation**:
 
