@@ -93,23 +93,30 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
       - **Line and Clustered Column Chart** showing **Net Sales** as columns and **Gross Margin %**, **Net Profit %**, and **AtliQ Market Share %** as lines across different years.
       - Contains two tables showing the **Top 5 Customers** and **Top 5 Products** based on their **Net Sales** and also shows their **Revenue Contribution %** and **Gross Margin %**.
      
-6. **Data Validation**:
+6. **Deploying the Solution**:
+         1. **Published the Report to Power BI Service**
+            - The report, once finalized and tested locally, was uploaded to the Power BI Service platform. This allows for easy sharing and distribution of the report among stakeholders, including team members, managers, and other relevant personnel. The report was published to a workspace within Power BI Service, ensuring that authorized users can access it online. By doing so, we enabled real-time access to the most up-to-date data and provided the opportunity for interactive exploration of the data through Power BI’s rich visualizations.
+   
+         2. **Installed a personal gateway and connected  local computer with Power BI service for automatic data refresh of MySQL database**
+           - To ensure the data in the Power BI reports remained up-to-date, I installed a personal gateway on the local computer. The gateway acts as a bridge between on-premises data sources (in this case, the MySQL database) and the Power BI Service in the cloud. This setup allows Power BI to automatically refresh the data on a scheduled basis without needing manual intervention.
+        
+         3. **The excel files were uploaded to the sahrepoint folder via teams for the automatic data refresh of the excel files data**
+            - By uploading the Excel files to SharePoint, I enabled automatic data refresh for the reports that pull data from these files. Power BI is able to connect to SharePoint Online and automatically refresh the data whenever the Excel files are updated, ensuring the reports always reflect the latest changes without needing to manually upload or modify the data.The integration between Teams, SharePoint, and Power BI creates a streamlined workflow, where stakeholders can update the data in the Excel files within the Teams environment, and Power BI automatically pulls the latest version for report generation.
+        
+8. **Data Validation**:
 
 
-   1. **Published the Report to Power BI Service**
-      - The report, once finalized and tested locally, was uploaded to the Power BI Service platform. This allows for easy sharing and distribution of the report among stakeholders, including team members, managers, and other relevant personnel. The report was published to a workspace within Power BI Service, ensuring that authorized users can access it online. By doing so, we enabled real-time access to the most up-to-date data and provided the opportunity for interactive exploration of the data through Power BI’s rich visualizations.
-
-   2. **Exported the Report to Excel Using the "Analyze in Excel" Option and Analyzed Results in PivotTables**
+   1. **Exported the Report to Excel Using the "Analyze in Excel" Option and Analyzed Results in PivotTables**
       - Using Power BI’s “Analyze in Excel” feature, I exported the report data into an Excel file. This feature allowed for a seamless integration between Power BI and Excel, enabling users to manipulate and analyze the data outside of Power BI while retaining the report's data structure and relationships. Once in Excel, the data was analyzed using PivotTables to derive insights and trends, allowing for more detailed and customizable analysis. PivotTables provided the flexibility to perform data aggregation, comparison, and visualization based on different filters and dimensions.
 
-   3. **Data Validation Was Carried Out with the Benchmark Numbers from the Previous Years and Also the Target Values of the Current Year**
+   2. **Data Validation Was Carried Out with the Benchmark Numbers from the Previous Years and Also the Target Values of the Current Year**
        - To ensure the accuracy and integrity of the data, a thorough data validation process was conducted. This involved comparing the current report’s data against benchmark numbers from previous years, which served as a point of reference for consistency and historical performance. In addition, the current year's target values were also used for validation to ensure that the results align with the expected goals and objectives. Any discrepancies between the actual data and benchmark/target figures were flagged for further review and corrective actions, ensuring the report’s data is reliable and actionable.
 
-   4. **User Acceptance Testing (UAT) Is Done for the First Round of Testing by End-Users So That Obvious Issues Can Be Identified Before the Solution Is Released to a Broad Range of Users**
+   3. **User Acceptance Testing (UAT) Is Done for the First Round of Testing by End-Users So That Obvious Issues Can Be Identified Before the Solution Is Released to a Broad Range of Users**
        - As part of the quality assurance process, a round of User Acceptance Testing (UAT) was carried out with a select group of end-users. This stage of testing allowed real users to interact with the report and provide feedback on its functionality, usability, and accuracy. The goal was to identify and resolve any obvious issues, such as data errors, interface problems, or user experience concerns, before the solution is rolled out to a larger audience. The feedback collected during this phase was used to make necessary adjustments and ensure that the final solution meets user expectations and delivers the required value.
 
 
-7. **Stakeholder Review and Feedback Implementation**:
+9. **Stakeholder Review and Feedback Implementation**:
     1. **The reports were reviewed by the stakeholders and their suggestions were provided.Steps were taken to implement these suggestions**.
        - After the initial report was shared with stakeholders, a thorough review process was conducted to gather their feedback. This included gathering input on report content, layout, accuracy, and overall usefulness.
        - Based on their input, a set of actionable steps was taken to refine and enhance the report. These adjustments not only addressed specific stakeholder concerns but also ensured that the report better aligned with the business objectives. By actively involving stakeholders in the process and incorporating their feedback, we ensured that the final report is more tailored to their needs, which leads to more effective decision-making.
@@ -122,8 +129,7 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
       - A significant emphasis was placed on ensuring that the report’s data was accurate, reliable, and of the highest quality. The data quality review involved identifying and addressing any inconsistencies, missing values, or errors in the dataset that could lead to inaccurate insights.
       - In addition to data quality, the performance optimization of the report was prioritized. This involved analyzing the report's responsiveness and load times, particularly when handling large datasets or complex visualizations. Steps were taken to streamline calculations, optimize queries, and reduce unnecessary processing time, resulting in faster report generation and smoother user experience.
 
-8. **Deploying the Solution**:
-         - Installed a personal gateway and connected  local computer with Power BI service for automatic data refresh of MySQL database.
+
 
                         
  
