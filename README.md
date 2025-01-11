@@ -8,6 +8,9 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 4. Supply Chain View: Measure Forecast Accuracy, Net Error, and Absolute Error, and track accuracy and error trends for supply chain optimization.
 5. Executive View: A real-time executive dashboard to monitor performance by division, customers, products, and channels.
 
+# Live Dashboard
+Explore the live dashboard here[https://app.powerbi.com/links/UIgnS5eEDz?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare].
+
 # Steps Followed
 1. **Project Planning and Scoping**:
    The Project Planning and Scoping phase ensured that the Power BI dashboard for AtliQ Hardwares was delivered within scope, on time, and with the right set of features to meet business needs. By defining clear objectives, understanding stakeholder requirements, and setting boundaries, the project was structured to deliver meaningful insights across multiple business functions, enabling data-driven decisions. This involved:
@@ -113,7 +116,6 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
         - The integration between **Teams**, **SharePoint**, and **Power BI** creates a streamlined workflow, where stakeholders can update the data in the Excel files within the Teams environment, and Power BI automatically pulls the latest version for report generation.
 
 7. **Data Validation**:
-
 
    1. **Exported the Report to Excel Using the "Analyze in Excel" Option and Analyzed Results in PivotTables**
       - Using Power BI’s “Analyze in Excel” feature, I exported the report data into an Excel file. This feature allowed for a seamless integration between Power BI and Excel, enabling users to manipulate and analyze the data outside of Power BI while retaining the report's data structure and relationships. Once in Excel, the data was analyzed using PivotTables to derive insights and trends, allowing for more detailed and customizable analysis. PivotTables provided the flexibility to perform data aggregation, comparison, and visualization based on different filters and dimensions.
