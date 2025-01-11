@@ -9,7 +9,7 @@ AtliQ Technologies, a fast-growing consumer electronics brand, struggled with da
 5. Executive View: A real-time executive dashboard to monitor performance by division, customers, products, and channels.
 
 # Live Dashboard
-Explore the live dashboard here[https://app.powerbi.com/links/UIgnS5eEDz?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare].
+Explore the live dashboard [here](https://app.powerbi.com/links/UIgnS5eEDz?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare).
 
 # Steps Followed
 1. **Project Planning and Scoping**:
