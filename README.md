@@ -96,10 +96,10 @@ Explore the live dashboard [here](https://app.powerbi.com/links/UIgnS5eEDz?ctid=
       - Contains two tables showing the **Top 5 Customers** and **Top 5 Products** based on their **Net Sales** and also shows their **Revenue Contribution %** and **Gross Margin %**.
 
    6. **Added Filters and Slicers**:
-          - Added filters of fiscal years and quarters to all the views.
-          - Added Year to Date and Year to Go filters to all the views to compare the sales data from the beginning of the year to the present date and the target and forecast data from the present date till the end of the year.This helps us to understand  how much we need to sell in the rest of the year to meet the target or meet our forecast plan.
-          - Added Last Year and Target buttons on all the views to compare the data of the previous year vs the target to attained for the current year.
-          - Also added regional, segment-wise, and customer-based filters to all the views to allow stakeholders to filter the data based on these dimensions, enabling more granular analysis and helping users to view the data from different perspectives according to specific regions, business segments, or individual customer performance.
+      - Added filters of fiscal years and quarters to all the views.
+      - Added Year to Date and Year to Go filters to all the views to compare the sales data from the beginning of the year to the present date and the target and forecast data from the present date till the end of the year.This helps us to understand  how much we need to sell in the rest of the year to meet the target or meet our forecast plan.
+      - Added Last Year and Target buttons on all the views to compare the data of the previous year vs the target to attained for the current year.
+      - Also added regional, segment-wise, and customer-based filters to all the views to allow stakeholders to filter the data based on these dimensions, enabling more granular analysis and helping users to view the data from different perspectives according to specific regions, business segments, or individual customer performance.
 
  6. **Deploying the Solution**
 
